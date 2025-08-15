@@ -9,10 +9,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently Learning and working on *Machine Learning Projects*
-- 🌱 I’m learning *Python, R, and ML Frameworks*
+- 🔭 I’m currently Learning and working on Machine Learning Projects.
+- 🌱 I’m learning Python , SQL and ML Frameworks.
 - 📫 How to reach me: *tusharpoojari784@gmail.com*
-- ⚡ Fun fact: I love upskill myself and building smart things projects.
+- ⚡ Fun fact: I love upskill myself and building smart projects.
 
 ---
 
