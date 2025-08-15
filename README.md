@@ -1,6 +1,6 @@
 # Tushar-Poojari
 <h1 align="center">Hi 👋, I'm Tushar</h1>
-<h3 align="center">A econd year BCA student passionate about  Machine Learning and Enthusiast </h3>
+<h3 align="center">A Second year BCA student passionate about  Machine Learning and Enthusiast </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,11 +9,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on *Machine Learning Projects*
+- 🔭 I’m currently Learning and working on *Machine Learning Projects*
 - 🌱 I’m learning *Python, R, and ML Frameworks*
-- 💬 Ask me about *ML, Python, Data Science*
-- 📫 How to reach me: *your-email@example.com*
-- ⚡ Fun fact: I love building smart things from data.
+- 📫 How to reach me: *tusharpoojari784@gmail.com*
+- ⚡ Fun fact: I love upskill myself and building smart things projects.
 
 ---
 
