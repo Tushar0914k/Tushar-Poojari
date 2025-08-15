@@ -1,6 +1,6 @@
 # Tushar-Poojari
 <h1 align="center">Hi 👋, I'm Tushar</h1>
-<h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
+<h3 align="center">A econd year BCA student passionate about  Machine Learning and Enthusiast </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
