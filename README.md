@@ -12,7 +12,7 @@
 - 🔭 I’m currently Learning and working on Machine Learning Projects.
 - 🌱 I’m learning Python and its libraries and also ML Frameworks.
 - 📫 How to reach me: *tpoojari35gmail.com*
-- ⚡ Currently i am learning libraries , tools and building smart projects.
+- ⚡ Currently i am learning & Building smart ML building smart projects.
 
 ---
 
